@@ -16,7 +16,7 @@ Just add the line under `require` object in your `composer.json` file.
 {
   "require": {
   ...
-    "udokmeci/yii2-beanstalk" : "^1.0.0"
+    "Webvemon/yii2-beanstalk" : "^1.0.0"
   }
 }
 ```
